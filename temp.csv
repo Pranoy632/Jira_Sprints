@@ -1,0 +1,50 @@
+ID,KEY,ASSIGNEE,ASSIGNEE-NAME,PRIORITY-NAME,DONE,STATUS-ID,STATUS-NAME,ESTIMATE-STATISTIC,DESCRIPTION
+15137,TM3-318,devin@monumetric.com,Devin Crampton,Bonkers,False,10102,Blocked,1.0,This status is managed internally by JIRA Software
+14970,TM3-277,kalyani,Kalyani,Extra Huge,False,10000,To Do,3.0,
+14210,TM3-221,kalyani,Kalyani,Extra Large,False,10102,Blocked,8.0,This status is managed internally by JIRA Software
+15163,TM3-336,aman,Aman,Extra Large,True,10001,Done,2.0,
+15032,TM3-298,aman,Aman,Large,False,10102,Blocked,Not Assigned,This status is managed internally by JIRA Software
+15173,TM3-337,aman,Aman,Large,True,10001,Done,1.0,
+15142,TM3-321,aman,Aman,Medium-Large,False,10101,Ready for QA,2.0,This status is managed internally by JIRA Software
+15143,TM3-322,nishant,Nishant,Medium,False,10103,Push to Production,2.0,This status is managed internally by JIRA Software
+15155,TM3-329,aman,Aman,Medium,True,10001,Done,3.0,
+15028,TM3-295,vikrant,Vikrant,Medium,False,10103,Push to Production,1.0,This status is managed internally by JIRA Software
+15009,TM3-285,kalyani,Kalyani,Medium,True,10001,Done,1.0,
+15029,TM3-296,vikrant,Vikrant,Small-ish,False,10103,Push to Production,1.0,This status is managed internally by JIRA Software
+15019,TM3-292,Not Assigned,Not Assigned,Small-ish,False,10000,To Do,2.0,
+15046,TM3-301,aman,Aman,Small-ish,False,3,In Progress,2.0,This issue is being actively worked on at the moment by the assignee.
+15031,TM3-297,aman,Aman,Tiny ,True,10001,Done,2.0,
+15138,TM3-319,aman,Aman,Tiny ,True,10001,Done,2.0,
+15161,TM3-334,erik@monumetric.com,Erik Wolf,Tiny ,False,10101,Ready for QA,3.0,This status is managed internally by JIRA Software
+15134,TM3-331,erik@monumetric.com,Erik Wolf,Huge,False,3,In Progress,3.0,This issue is being actively worked on at the moment by the assignee.
+14994,MAIN-224,rinku,Rinku,Huge,True,10001,Done,8.0,
+15125,MAIN-237,rinku,Rinku,Huge,True,10001,Done,2.0,
+15126,DASH-150,rinku,Rinku,Small-ish,True,10001,Done,2.0,
+15093,MAIN-235,rinku,Rinku,Huge,True,10001,Done,3.0,
+15059,MAIN-232,tyson,Tyson Davis,Extra Large,False,10101,Ready for QA,3.0,This status is managed internally by JIRA Software
+15051,MAIN-230,rinku,Rinku,Large,True,10001,Done,2.0,
+13578,MAIN-116,pranav,Pranav,Huge,True,10001,Done,5.0,
+14993,MAIN-226,pravin,Pravin Tandale,Large,True,10001,Done,3.0,
+14823,MAIN-213,pravin,Pravin Tandale,Large,True,10001,Done,2.0,
+15120,MAIN-236,ryan@monumetric.com,Ryan Lenzora,Medium-Large,False,10101,Ready for QA,3.0,This status is managed internally by JIRA Software
+15131,DASH-151,pranav,Pranav,Medium-Large,False,10101,Ready for QA,3.0,This status is managed internally by JIRA Software
+14410,MAIN-184,pravin,Pravin Tandale,Small-ish,False,3,In Progress,8.0,This issue is being actively worked on at the moment by the assignee.
+14355,DASH-140,pravin,Pravin Tandale,Small-ish,False,10000,To Do,3.0,
+15056,MAIN-231,pranav,Pranav,Tiny ,True,10001,Done,2.0,
+14348,TM3-230,vikrant,Vikrant,Large,False,3,In Progress,3.0,This issue is being actively worked on at the moment by the assignee.
+15150,TM3-328,aman,Aman,Medium-Large,True,10001,Done,2.0,
+14905,TM3-261,kevin,Kevin Hill,Huge,False,3,In Progress,5.0,This issue is being actively worked on at the moment by the assignee.
+14953,TM3-276,kalyani,Kalyani,Tiny ,False,3,In Progress,1.0,This issue is being actively worked on at the moment by the assignee.
+14803,TM3-255,aman,Aman,Bonkers,True,10001,Done,8.0,
+15042,TM3-303,steve@monumetric.com,Steve Robison,Medium,False,3,In Progress,3.0,This issue is being actively worked on at the moment by the assignee.
+15165,MAIN-242,kevin,Kevin Hill,Extra Large,True,10001,Done,1.0,
+15205,MAIN-250,Not Assigned,Not Assigned,Small-ish,False,10000,To Do,Not Assigned,
+15206,MAIN-251,aman,Aman,Medium,False,3,In Progress,Not Assigned,This issue is being actively worked on at the moment by the assignee.
+15213,MAIN-246,Not Assigned,Not Assigned,Tiny ,False,10000,To Do,Not Assigned,
+15216,MAIN-248,pranav,Pranav,Huge,False,10000,To Do,1.0,
+15218,MAIN-253,aman,Aman,Huge,False,10000,To Do,Not Assigned,
+15220,MAIN-249,aman,Aman,Huge,False,3,In Progress,Not Assigned,This issue is being actively worked on at the moment by the assignee.
+15221,TM3-341,aman,Aman,Extra Large,False,3,In Progress,Not Assigned,This issue is being actively worked on at the moment by the assignee.
+15222,MAIN-259,kevin,Kevin Hill,Huge,False,10101,Ready for QA,Not Assigned,This status is managed internally by JIRA Software
+15223,MAIN-260,nishant,Nishant,Medium,False,10000,To Do,Not Assigned,
+15224,TM3-342,Not Assigned,Not Assigned,Medium,False,10000,To Do,Not Assigned,
